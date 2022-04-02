@@ -6,7 +6,7 @@ const Navbar = () => {
     <div>
       <nav className="navbar navbar-dark bg-info mb-5">
         <Link to="/" className="navbar-brand">
-          Eponuda Task
+          Eponuda
         </Link>
       </nav>
     </div>
